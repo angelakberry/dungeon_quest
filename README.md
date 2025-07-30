@@ -17,6 +17,7 @@ You will build a game where:
 - Loops and conditional logic
 - The `random` module
 
+
 ## Instructions
 1. Clone this repository to your local machine.
 2. Open the notebook file (`dungeon_adventure.ipynb`) in Jupyter or VS Code.
